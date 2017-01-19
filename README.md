@@ -1,5 +1,5 @@
-# pattern-recognition
-CSE426
+# pattern-recognition (CSE426)
+
 Given a training set A of 100 samples/class and three test sets B, C, & D of 100 samples/class (chosen from the list of data sets below), do:
 
 -	Reposition each sample character image by centering it within a 16x16 pixel array (with equal white-space margins top/bottom and left/right; rarely, a character-image may be larger than 16 pixels in width or height---in this case, simply trim off the extra rows or columns roughly equally from left-&-right or top-&-bottom).
